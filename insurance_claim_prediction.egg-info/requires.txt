@@ -7,5 +7,3 @@ pyyaml
 scikit-learn
 imblearn
 mlflow
-
--e .
