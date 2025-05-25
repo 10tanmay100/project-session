@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import pandas as pd
 import os
+import numpy as np
 from claim.utils import load_object
 import warnings
 warnings.filterwarnings("ignore")
